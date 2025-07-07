@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|c:\\users\\cyber\\source\\repos\\sleekpomodoro\\sleekpomodoro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|solutionrelative:sleekpomodoro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|c:\\users\\cyber\\source\\repos\\sleekpomodoro\\sleekpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|solutionrelative:sleekpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|c:\\users\\cyber\\source\\repos\\sleekpomodoro\\sleekpomodoro\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|solutionrelative:sleekpomodoro\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|c:\\users\\cyber\\source\\repos\\sleekpomodoro\\sleekpomodoro\\sleekpomodoro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|solutionrelative:sleekpomodoro\\sleekpomodoro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|c:\\users\\cyber\\source\\repos\\sleekpomodoro\\sleekpomodoro\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BBE557-6529-489C-B52C-CD6055DCD9DA}|SleekPomodoro\\SleekPomodoro.csproj|solutionrelative:sleekpomodoro\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SleekPomodoro",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\SleekPomodoro.csproj",
+              "RelativeDocumentMoniker": "SleekPomodoro\\SleekPomodoro.csproj",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\SleekPomodoro.csproj",
+              "RelativeToolTip": "SleekPomodoro\\SleekPomodoro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T06:39:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SleekPomodoro\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainWindow.xaml",
+              "RelativeToolTip": "SleekPomodoro\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-07T06:20:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SleekPomodoro\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainViewModel.cs",
+              "RelativeToolTip": "SleekPomodoro\\MainViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:48:30.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SleekPomodoro\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SleekPomodoro\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:30:28.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\Converters.cs",
+              "RelativeDocumentMoniker": "SleekPomodoro\\Converters.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\SleekPomodoro\\SleekPomodoro\\Converters.cs",
+              "RelativeToolTip": "SleekPomodoro\\Converters.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:19:47.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

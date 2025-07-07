@@ -1,0 +1,5 @@
+C:\Users\cyber\source\repos\SleekPomodoro\SleekPomodoro\bin\Release\net8.0-windows\publish\SleekPomodoro.exe
+C:\Users\cyber\source\repos\SleekPomodoro\SleekPomodoro\bin\Release\net8.0-windows\publish\SleekPomodoro.dll
+C:\Users\cyber\source\repos\SleekPomodoro\SleekPomodoro\bin\Release\net8.0-windows\publish\SleekPomodoro.deps.json
+C:\Users\cyber\source\repos\SleekPomodoro\SleekPomodoro\bin\Release\net8.0-windows\publish\SleekPomodoro.runtimeconfig.json
+C:\Users\cyber\source\repos\SleekPomodoro\SleekPomodoro\bin\Release\net8.0-windows\publish\SleekPomodoro.pdb

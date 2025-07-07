@@ -1,0 +1,15 @@
+﻿<Application x:Class="SleekPomodoro.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SleekPomodoro"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <!-- Global Colors: Available everywhere in the app -->
+        <Color x:Key="WorkColor">#FFE9755B</Color>
+        <!-- A warm orange -->
+        <Color x:Key="BreakColor">#FF5BA3E9</Color>
+        <!-- A calm blue -->
+
+    </Application.Resources>
+</Application>
